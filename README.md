@@ -1,34 +1,20 @@
-# First ReactJs Project - ContactDetails Form
+# Snapshot Application Using React
 ## Project Description
 
 Creating an applicatin in React is quite tough, but still I am loving it.
-Here are the brief Description of my first React.js Project: 
+Here are the brief Description of SnapShot Application: 
 
-1. It is a simple contact details form. In this form I am adding only name and email field of the user with the help of localStorage in Javascript. LocalStorage is the way to save our data after the logout from the application or the computer.
+1. It is simple find image application using UNSPLASH API and Axios in React.
  
-2. Technology - React.js Framework of JavaScript and the package uuid for generating unique id for every user details.
-
-3. I faced a bit challenges in this project. The challenge is that UseEffect Hook that will reder the component again and again without the passing dependency into it.
-And another mistakes is the silly  mistakes 😀.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Technology - JavaScript, React Framework, Axios and Tailwind CSS
 
 # SnapShot
-![Screenshot (1)](https://user-images.githubusercontent.com/74963213/229868946-ab3ad9b0-f851-4d6b-ba40-94ce95245093.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/74963213/236782917-a4fa030d-c58e-4b5f-a5ec-c4f2290c4571.png)
+
+# Recording
+
+https://user-images.githubusercontent.com/74963213/236784636-8c275c81-622a-4225-b8a1-3b4e29deb54c.mp4
 
 ## Learn More
 
@@ -40,15 +26,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Visit The Application:
+[https://chetanabadgujar-findimagessite.netlify.app/](https://chetanabadgujar-findimagessite.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Connect to me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chetana-badgujar)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ChetanaBadgujar)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-![React](https://legacy.reactjs.org/docs/getting-started.html)
 
 
 
