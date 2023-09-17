@@ -1,4 +1,4 @@
-# Snapshot Application Using React
+# VisualizePix
 ## Project Description
 
 Creating an applicatin in React is quite tough, but still I am loving it.
